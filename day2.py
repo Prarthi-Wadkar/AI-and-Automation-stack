@@ -9,10 +9,10 @@ data = response.json()
 print(data["title"])
 
 founder_data = {
-    "product" = "first users"
-    "audience" = "indie founders"
-    "channels" = ["reddit","instagram","threads"]
-}
+    "product" : "first users",
+    "audience" : "indie founders",
+    "channels" : ["reddit","instagram","threads"]
+    }
 
 with open("founder.json", "w") as f:
     json.dump(founder_data,f,indent= 2)
