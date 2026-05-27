@@ -9,7 +9,7 @@ data = response.json()
 print(data["title"])
 
 founder_data = {
-    "product" : "first users",
+    "product" : "DistroAI",
     "audience" : "indie founders",
     "channels" : ["reddit","instagram","threads"]
     }

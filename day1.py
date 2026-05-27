@@ -1,7 +1,7 @@
 def describe_product(name, audience, budget=0):
     return f"{name} is built for {audience} with {budget} budget"
 
-print(describe_product("first users", "indie founders", 0))
+print(describe_product("DistroAI", "indie founders", 0))
 
 channels = ["reddit", "twitter", "discord", "linkedin"]
 uppercase = [c.upper() for c in channels]
@@ -9,7 +9,7 @@ print(uppercase)
 
 dict ={
     "name" : "prarthi",
-    "product" : "first users",
+    "product" : "DistroAI",
     "audience" : "indie founders",
     "budget" : 0
 }

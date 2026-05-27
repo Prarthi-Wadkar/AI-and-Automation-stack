@@ -6,7 +6,7 @@ from dotenv import load_dotenv
 load_dotenv()
 client = Groq(api_key = os.environ.get("GROQ_API_KEY"))
 
-product = "FirstUsers - an AI tool that gives founders a distribution plan"
+product = "DistroAI - an AI tool that gives founders a distribution plan"
 audience = "indie hackers and solo founders"
 budget = "zero"
 
