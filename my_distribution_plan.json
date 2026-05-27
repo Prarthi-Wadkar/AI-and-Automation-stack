@@ -1,0 +1,24 @@
+{
+  "channels": [
+    {
+      "name": "r/indiehackers",
+      "why": "A community of 120k indie makers and founders who often discuss user acquisition strategies",
+      "message_template": "Hey fellow indie hackers, just launched DistroAi to help with getting first users, would love feedback!"
+    },
+    {
+      "name": "r/growthhacking",
+      "why": "A community of 550k growth enthusiasts who focus on creative user acquisition tactics",
+      "message_template": "Just launched DistroAi, a tool to help indie founders get their first users, looking for feedback from growth experts"
+    },
+    {
+      "name": "r/saas",
+      "why": "A community of 20k SaaS founders and enthusiasts who often discuss user acquisition and growth strategies",
+      "message_template": "Hey SaaS founders, just launched DistroAi to help with getting first users, would love to hear about your experiences"
+    }
+  ],
+  "week1_actions": [
+    "Reach out to 10 indie hackers for feedback",
+    "Post on the suggested communities",
+    "Optimize the DistroAi landing page for conversion"
+  ]
+}
